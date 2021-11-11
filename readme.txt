@@ -1,2 +1,2 @@
-Gif is a version control system.
+Gif is a distributed version control system.
 Git is free software.
